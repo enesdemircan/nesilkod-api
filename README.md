@@ -3,10 +3,10 @@
 
 Basic useful feature list:
 
- * Fotball
+ * Football
  * Weather forecast
 
-### Fotball
+### Football
 
 ```json
 {
